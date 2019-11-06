@@ -1,0 +1,16 @@
+C:\Projetos\azureBlobStorage\blobstorage\bin\Debug\netcoreapp3.0\blobstorage.exe
+C:\Projetos\azureBlobStorage\blobstorage\bin\Debug\netcoreapp3.0\blobstorage.deps.json
+C:\Projetos\azureBlobStorage\blobstorage\bin\Debug\netcoreapp3.0\blobstorage.runtimeconfig.json
+C:\Projetos\azureBlobStorage\blobstorage\bin\Debug\netcoreapp3.0\blobstorage.runtimeconfig.dev.json
+C:\Projetos\azureBlobStorage\blobstorage\bin\Debug\netcoreapp3.0\blobstorage.dll
+C:\Projetos\azureBlobStorage\blobstorage\bin\Debug\netcoreapp3.0\blobstorage.pdb
+C:\Projetos\azureBlobStorage\blobstorage\obj\Debug\netcoreapp3.0\blobstorage.csprojAssemblyReference.cache
+C:\Projetos\azureBlobStorage\blobstorage\obj\Debug\netcoreapp3.0\blobstorage.AssemblyInfoInputs.cache
+C:\Projetos\azureBlobStorage\blobstorage\obj\Debug\netcoreapp3.0\blobstorage.AssemblyInfo.cs
+C:\Projetos\azureBlobStorage\blobstorage\obj\Debug\netcoreapp3.0\blobstorage.dll
+C:\Projetos\azureBlobStorage\blobstorage\obj\Debug\netcoreapp3.0\blobstorage.pdb
+C:\Projetos\azureBlobStorage\blobstorage\bin\Debug\netcoreapp3.0\Microsoft.Azure.KeyVault.Core.dll
+C:\Projetos\azureBlobStorage\blobstorage\bin\Debug\netcoreapp3.0\Microsoft.Azure.Storage.Blob.dll
+C:\Projetos\azureBlobStorage\blobstorage\bin\Debug\netcoreapp3.0\Microsoft.Azure.Storage.Common.dll
+C:\Projetos\azureBlobStorage\blobstorage\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Projetos\azureBlobStorage\blobstorage\obj\Debug\netcoreapp3.0\blobstorage.csproj.CopyComplete
